@@ -7,7 +7,7 @@
 - [Infosec Blog](https://medium.com/@cybersamarth)
 
 
-# 👨🏻‍💻 Cybersecurity Engineer 🛡️
+# 👨🏻‍💻 Cybersecurity Researcher 🛡️
 
 ###  About Me
 -I'm based in Bangalore, a vibrant city that fuels my diverse interests and pursuits. As a Security Researcher, I constantly delve into the intricacies of digital landscapes, ensuring a safer online environment for all. Alongside this, my penchant for writing allows me to articulate complex ideas, stories, and insights.
