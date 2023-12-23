@@ -1,7 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Samarth !
 
-📫 How to reach me: 
+## 📫 How to reach me: 
 [Mail](mailto:saisamarth.infosec@gmail.com)  | [LinkedIn](www.linkedin.com/in/cybersamarth) | [Twitter](https://x.com/CyberSamarth?s=20)
+## ✍ Follow My Blog on Infosec
+
+- [Infosec Blog](https://medium.com/@cybersamarth)
+
 
 # 👨🏻‍💻 Cybersecurity Engineer 🛡️
 
