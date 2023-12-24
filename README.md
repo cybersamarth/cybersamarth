@@ -6,7 +6,7 @@
  
 ## ✍ Follow My Blog on Infosec
 
-- [Infosec Blog](https://medium.com/@cybersamarth)
+- <img width="30" height="30" src="https://img.icons8.com/stickers/30/medium-logo.png" alt="medium-logo"/>[Infosec Blog](https://medium.com/@cybersamarth)
 
 
 # 👨🏻‍💻 Cybersecurity Researcher 🛡️
