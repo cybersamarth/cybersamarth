@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Samarth !
 
 ## 📫 How to reach me: 
- [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/email.png" title="Mail">](mailto:saisamarth.infosec@gmail.com)
- [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/cybersamarth) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/cybersamarth) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/cybersamarth/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="LinkedIn">](https://twitter.com/cybersamarth) 
+  [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>](mailto:saisamarth.infosec@gmail.com)
+ [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>](https://linkedin.com/in/cybersamarth) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/188/github.png" alt="github"/>](https://github.com/cybersamarth) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>](https://instagram.com/cybersamarth/) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" alt="twitter-circled"/>](https://twitter.com/cybersamarth) 
  
 ## ✍ Follow My Blog on Infosec
 
